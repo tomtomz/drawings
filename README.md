@@ -1,2 +1,2 @@
 # drawings
-Lucis Drawings
+Lucid, Gliffy, and other Drawings
